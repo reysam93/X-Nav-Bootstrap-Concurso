@@ -3,6 +3,8 @@ Ejercicio 5.4.7 - Concurso: Tu diseño Bootstrap (curso 2015-2016)
 
 Ejercicio de las asignaturas AT y DAT. Tema Bootstrap.
 
+Pruebalo <a href="http://reysam93.github.io/X-Nav-Bootstrap-Concurso/">aquí.</a>
+
 ## Enunciado 
 
 Utilizando componentes Bootstrap, realiza una página para el un evento académico.
